@@ -1,8 +1,25 @@
 body {
 	background: rgb(32, 32, 32);
+	margin: auto;
+	max-width: 100%;
 }
 
 img {
 	width: 800px;
+}
 
+div {
+	margin: 0 auto;
+	width: 1020px;
+	text-align: center;
+}
+
+h1 {
+	color: white;
+	font-size: 78px;
+	font-family: 'Lato', sans-serif;
+	font-weight: 100;
+	letter-spacing: 5px;
+	text-align: center;
+	margin-bottom: 0px;
 }
